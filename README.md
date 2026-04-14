@@ -25,3 +25,6 @@ The system captures hand gestures and processes them using a trained deep learni
 - Expand gesture dataset
 - Enable real-time communication
 - Enhance text-to-sign conversion
+
+  <img width="1312" height="842" alt="Screenshot 2026-03-02 045710" src="https://github.com/user-attachments/assets/112f88e4-d37b-4ee3-a0fd-6bc3582050ea" />
+
