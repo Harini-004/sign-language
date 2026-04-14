@@ -1,0 +1,23 @@
+{% extends 'base.html' %}
+
+
+{% block content %}
+<style>
+    .video-container {
+        width: 100%;
+        max-width: 640px;
+        margin: 0 auto;
+        text-align: center;
+    }
+    .video-feed {
+        width: 100%;
+        height: auto;
+        border: 2px solid #3498db;
+        border-radius: 10px;
+    }
+</style>
+<h1>Hand Sign To Text</h1>
+<div class="video-container">
+    <img src="/video_feed/" class="video-feed" />
+</div>
+{% endblock %}
